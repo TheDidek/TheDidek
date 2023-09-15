@@ -1,2 +1,2 @@
-### Hi there 👋
+### Important ⚠️
 This account is for contributions only. My repositories can be found on [Codeberg](https://codeberg.org/didek/), an open source alternative to GitHub.
